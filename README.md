@@ -43,7 +43,10 @@ BigShop is an e-commerce platform built using PHP and Laravel. It includes essen
 6. Serve the application:
    ```bash
    php artisan serve
-  
+   ```
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
+``` 
+
+Now it includes a proper closing of the "Serve the application" section.
